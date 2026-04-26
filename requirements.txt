@@ -1,0 +1,33 @@
+# Core
+numpy
+pandas
+
+# Data fetching
+yfinance
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Optimization
+scipy
+cvxpy
+
+# Time Series (optional)
+statsmodels
+
+# Deep Learning (optional - only if using LSTM)
+tensorflow
+
+# Jupyter (development)
+notebook
+
+# Utility
+tqdm
+
+#UI
+streamlit
